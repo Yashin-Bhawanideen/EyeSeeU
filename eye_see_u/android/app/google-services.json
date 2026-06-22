@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328171646651",
+    "project_id": "trackereyeseeu",
+    "storage_bucket": "trackereyeseeu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328171646651:android:a488c84960d022850b839e",
+        "android_client_info": {
+          "package_name": "com.example.eye_see_u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguyq4b_m21Bov3mUzOsxPHCU6DHIVVsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328171646651:android:7c42b37231c36e730b839e",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAguyq4b_m21Bov3mUzOsxPHCU6DHIVVsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
